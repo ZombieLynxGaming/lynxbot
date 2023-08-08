@@ -1,21 +1,21 @@
-{   "token": "MTExOTc5NjkzNDEyNzkxOTE5NA.GMbiVC.PQY_X_cUWeRe2feX1tvI5vp_0IAq5nKdIRJ-Qc",
-    "guildID": "646021483092770819",
-    "clientID": "1119796934127919194",
+{   "token": "",
+    "guildID": "",
+    "clientID": "",
     "suggest": {
-        "ark": "1062522717707976814",
-        "rust": "1122634142732005567",
-        "eco": "1108912985365291038",
-        "empyrion": "894047107353292890",
-        "minecraft": "1122635278419501087",
-        "valheim": "999808267196837918"
+        "ark": "",
+        "rust": "",
+        "eco": "",
+        "empyrion": "",
+        "minecraft": "",
+        "valheim": ""
     },
     "channelIDs": [ 
-    "1074826978873585714", 
-    "1119032018383151125",
-    "910422741847539723",
-    "894046511216869426",
-    "1004904995453411338",
-    "1122636052373450903"
+    "", 
+    "",
+    "",
+    "",
+    "",
+    ""
   ],
   "message": "Don't forget to vote for your favorite servers and consider donating to show your support! Every vote and donation counts towards creating an incredible gaming experience for all! \nhttps://zombie-lynx-gaming.tebex.io/category/subscriptions",
   "messageIntervalSeconds": 28800
